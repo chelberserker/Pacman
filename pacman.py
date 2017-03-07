@@ -1,6 +1,5 @@
 """
 Program Author: chelberserker
-Commented by: carlossantana3279
 """
 import sys
 import pygame
